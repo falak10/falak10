@@ -1,6 +1,6 @@
 <!-- <p align="center">
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/itgoyo/count.svg" />
+  <img src="https://profile-counter.glitch.me/falak10/count.svg" />
 </p> -->
 
 <h1 align="center">Hi 👋, I'm falak</h1>
@@ -26,10 +26,10 @@
   </a>
 </p>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=itgoyo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=falak10&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg)
+![](https://raw.githubusercontent.com/falak10/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/falak10/github-stats-transparent/output/generated/languages.svg)
 
 ### 🎧 Spotify Playing
 
@@ -199,7 +199,7 @@ No activity tracked
 
 | :pencil2: | :video_game: | :book: |:clapper:  |
 | --- | --- | --- | --- |
-| [Blogs](https://itgoyo.github.io/) |[Games](https://itgoyo.github.io/games/)  | [Books](https://itgoyo.github.io/books/) | [Movies](https://itgoyo.github.io/movies/) |
+| [Blogs](https://falak10.github.io/) |[Games](https://falak10.github.io/games/)  | [Books](https://falak10.github.io/books/) | [Movies](https://falak10.github.io/movies/) |
 
 
 ### :zap: Recent Activity
