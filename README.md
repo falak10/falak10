@@ -38,14 +38,6 @@
 
 
 
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-1.  Labeled issue [#1574](https://github.com/biliup/biliup/issues/1574) in [biliup/biliup](https://github.com/biliup/biliup)
-2. ❗ Opened issue [#1574](https://github.com/biliup/biliup/issues/1574) in [biliup/biliup](https://github.com/biliup/biliup)
-<!--END_SECTION:activity-->
-
-
 
 
 ### :zap: Recent Activity
