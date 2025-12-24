@@ -22,7 +22,7 @@
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=falak10&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=falak10&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) -->
 
 ![](https://raw.githubusercontent.com/falak10/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/falak10/github-stats-transparent/output/generated/languages.svg)
