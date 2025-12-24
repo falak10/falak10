@@ -6,6 +6,7 @@
 
 </p> -->
 
+
 <h1 align="center">Hi 👋, I'm Falak</h1>
 <h3 align="center">A developer passionate about AI/ML, C++, and building intelligent agents</h3>
 
@@ -24,10 +25,10 @@
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=falak10&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true&count_private=true&custom_title=Falak's%20GitHub%20Stats" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=falak10&show_icons=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true&count_private=true&custom_title=Falak's%20GitHub%20Stats" width="100%" />
     </td>
     <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=falak10&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true&langs_count=6" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=falak10&layout=compact&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&hide_border=true&langs_count=6" width="100%" />
     </td>
   </tr>
 </table>
