@@ -27,34 +27,15 @@
 
 <br/>
 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=falak10&show_icons=true&theme=radical&count_private=true&custom_title=Falak's%20GitHub%20Stats" width="100%" />
-    </td>
-    <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=falak10&layout=compact&theme=radical&hide_border=true&langs_count=6" width="100%" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<h3 align="center">📊 Detailed Analysis</h3>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/falak10/falak10/main/github-metrics.svg" alt="Metrics" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=falak10&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&count_private=true&custom_title=Falak's%20GitHub%20Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=falak10&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" />
 </div>
 
+### :dart: Weekly Coding Time
+No activity tracked
+### :sparkles: My Followers
 <br/>
 
-<table align="center" border="0" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-        <h3>⚡ Recent Activity</h3>
-        No activity tracked
-        </td>
-    <td width="50%" valign="top">
-        <h3>🌟 Top Followers</h3>
-        </td>
-  </tr>
-</table>
+### :zap: Recent Activity
+No activity tracked
