@@ -1,0 +1,25 @@
+name: Get Top Followers
+
+on:
+  schedule:
+    - cron: "0 8 * * *" # Runs every morning at 8am
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  top-followers:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+          
+      - name: Get Top Followers
+        uses: gayanvoice/top-followers-action@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: falak10
