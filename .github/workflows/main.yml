@@ -1,5 +1,6 @@
 name: Update Activity
 
+# THIS IS THE MISSING PART THAT FIXES THE RED X
 permissions:
   contents: write
 
