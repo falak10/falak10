@@ -32,6 +32,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=falak10&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" />
 </div>
 
+<h3 align="center">📊 Detailed Analysis</h3>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/falak10/falak10/main/github-metrics.svg" alt="Metrics" width="100%">
+</div>
+
 ### :dart: Weekly Coding Time
 No activity tracked
 ### :sparkles: My Followers
