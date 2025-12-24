@@ -1,0 +1,28 @@
+name: Update Activity
+
+# ⚠️ THIS IS THE KEY. Itgoyo doesn't need it (old repo), but YOU do (new repo).
+# Without this, you get the Red X.
+permissions:
+  contents: write
+
+on:
+  schedule:
+    # Runs every 30 minutes, just like Itgoyo
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Update this repo's README with recent activity
+
+    steps:
+      - uses: actions/checkout@v3
+      
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: falak10
+          MAX_LINES: 5
+          COMMIT_MSG: '⚡ Update README with the recent activity'
