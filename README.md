@@ -31,5 +31,17 @@
 
 <br/>
 
+<h3 align="center">📊 Detailed Analysis</h3>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/falak10/falak10/main/github-metrics.svg" alt="Metrics" width="100%">
+</div>
+
+<br/>
+
 ### ⚡ Recent Activity
 No activity tracked
+<br/>
+
+### 🌟 Top Followers
+<div align="left">
+</div>
