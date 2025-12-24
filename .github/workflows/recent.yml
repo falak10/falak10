@@ -1,27 +1,18 @@
 name: Update Activity
 
-# 🔴 THIS IS THE MISSING KEY THAT FIXES THE RED X
 permissions:
   contents: write
 
 on:
-  schedule:
-    # Runs every 30 minutes
-    - cron: "*/30 * * * *"
+  # STOPPED THE BOT HERE:
+  # schedule:
+  #   - cron: "*/30 * * * *"
+  
+  # Keep this if you want to run it manually later, or comment it out too:
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: Update this repo's README with recent activity
-
-    steps:
-      - uses: actions/checkout@v3
-      
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          USERNAME: falak10
-          MAX_LINES: 5
-          COMMIT_MSG: '⚡ Update README with the recent activity'
+    # ... (rest of the file stays the same)
