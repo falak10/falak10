@@ -1,12 +1,13 @@
 name: Update Activity
 
-# THIS IS THE MISSING PART THAT FIXES THE RED X
+# THIS SECTION IS REQUIRED FOR NEW REPOS (Itgoyo doesn't need it, but YOU do)
 permissions:
   contents: write
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    # Runs every 30 minutes (Itgoyo's setting)
+    - cron: "*/30 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -23,3 +24,4 @@ jobs:
         with:
           USERNAME: falak10
           MAX_LINES: 5
+          COMMIT_MSG: '⚡ Update README with the recent activity'
