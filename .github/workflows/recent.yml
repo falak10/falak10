@@ -1,13 +1,12 @@
 name: Update Activity
 
-# ⚠️ THIS IS THE KEY. Itgoyo doesn't need it (old repo), but YOU do (new repo).
-# Without this, you get the Red X.
+# 🔴 THIS IS THE MISSING KEY THAT FIXES THE RED X
 permissions:
   contents: write
 
 on:
   schedule:
-    # Runs every 30 minutes, just like Itgoyo
+    # Runs every 30 minutes
     - cron: "*/30 * * * *"
   workflow_dispatch:
 
