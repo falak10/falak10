@@ -1,8 +1,10 @@
 name: Update Activity
 
+permissions:
+  contents: write
+
 on:
   schedule:
-    # Runs every 6 hours
     - cron: "0 */6 * * *"
   workflow_dispatch:
 
@@ -18,7 +20,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          # Your username
           USERNAME: falak10
-          # How many items to show
           MAX_LINES: 5
